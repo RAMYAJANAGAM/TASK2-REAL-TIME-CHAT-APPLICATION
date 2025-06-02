@@ -24,3 +24,16 @@ From a styling perspective, CSS3 was used to ensure a modern and clean design. T
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/7179a2e7-7747-489c-9cfd-aa4b73ad8ccc)
+
+![Image](https://github.com/user-attachments/assets/ee641c98-bcd8-49b1-942f-debd0341bc9c)
+
+![Image](https://github.com/user-attachments/assets/56b3363f-36e7-48a2-bc38-7f6b1eb6d841)
+
+![Image](https://github.com/user-attachments/assets/95315bb5-f3a8-41b3-b587-324992401867)
+
+![Image](https://github.com/user-attachments/assets/a4ab98df-40bc-491d-9eb2-779eb0985cab)
+
+![Image](https://github.com/user-attachments/assets/96e81640-c2e2-4f3e-a275-de947fa75a42)
+
+![Image](https://github.com/user-attachments/assets/16a713bc-4191-4411-a1cd-f953c43db04b)
